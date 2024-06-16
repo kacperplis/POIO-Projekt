@@ -1,0 +1,17 @@
+debug/adminmenu.o
+debug/adminmenu_1.o
+debug/adminmenu_2.o
+debug/adminmenu_3.o
+debug/main.o
+debug/mainwindow.o
+debug/usermenu.o
+debug/usermenu_1.o
+debug/usermenu_2.o
+debug/moc_adminmenu.o
+debug/moc_adminmenu_1.o
+debug/moc_adminmenu_2.o
+debug/moc_adminmenu_3.o
+debug/moc_mainwindow.o
+debug/moc_usermenu.o
+debug/moc_usermenu_1.o
+debug/moc_usermenu_2.o
